@@ -6,12 +6,14 @@ Bem-vindo(a)! Este repositório reúne meus projetos de **Data Science**, com fo
 
 Os dados utilizados são exclusivamente para fins de estudo e demonstração, garantindo conformidade com boas práticas de **privacidade e ética**.
 
+### _Os links dos projetos levarão para o repositório de cada projeto, onde possuem mais informações, dados e conclusões. Mas também é possível verificar exclusivamente os projetos dentro das pastas nesse mesmo repositório_
+
 
 # Projetos 
 
  ## 📊 Análise Explorátoria
 
-  * [Explorando Diferentes Flores Íris](https://github.com/benzerinsio/DataScience/blob/main/EDA_Iris.ipynb): Este notebook realiza uma Análise Exploratória de Dados (EDA) no conjunto de dados das flores Íris. O objetivo é explorar padrões nos atributos das flores e aplicar o algoritmo K-Means para estimar quantos grupos distintos podem ser identificados com base nas características disponíveis. Ao longo da análise, são utilizadas estatísticas descritivas e visualizações para entender melhor a estrutura dos dados e avaliar a separabilidade das espécies sem rótulos prévios.
+  * [Explorando Diferentes Flores Íris](https://github.com/benzerinsio/EDA_iris_species): Este notebook realiza uma Análise Exploratória de Dados (EDA) no conjunto de dados das flores Íris. O objetivo é explorar padrões nos atributos das flores e aplicar o algoritmo K-Means para estimar quantos grupos distintos podem ser identificados com base nas características disponíveis. Ao longo da análise, são utilizadas estatísticas descritivas e visualizações para entender melhor a estrutura dos dados e avaliar a separabilidade das espécies sem rótulos prévios.
   
   * Diagnóstico de câncer de mama (Em Breve)
 
