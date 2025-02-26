@@ -12,7 +12,6 @@ Todos os dados são usados exclusivamente para fins de estudo, respeitando boas 
 
 > ℹ️ Cada projeto possui um repositório próprio com detalhes, dados e conclusões. Você também pode explorá-los diretamente nas pastas deste repositório.
 
-
 ## Projetos
 
 ### 📊 Análise Exploratória
@@ -25,11 +24,11 @@ Todos os dados são usados exclusivamente para fins de estudo, respeitando boas 
 **Bibliotecas:** Pandas, Seaborn, Matplotlib, NumPy, Scikit-Learn
 
 ### 🤖 Machine Learning
-- *(Em Breve)*
+- **[Classificação de Espécies Florais](https://github.com/benzerinsio/DataScience/blob/main/Machine-Learning/ML_iris.ipynb):** Projeto de Machine Learning supervisionado no dataset Iris, testando modelos como SVM, KNN, Decision Trees e Random Forest para classificar espécies com base em características florais.  
+- *(Mais Projetos Em Breve)*
 
 ### 🧠 Deep Learning
 - *(Em Andamento)*
-
 
 ## 🛠️ Habilidades
 
