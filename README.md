@@ -15,13 +15,13 @@ Os dados utilizados são exclusivamente para fins de estudo e demonstração, ga
 
   * [Exploração de Espécies Florais](https://github.com/benzerinsio/FloralSpecies-EDA): Este notebook realiza uma Análise Exploratória de Dados (EDA) no conjunto de dados das flores Íris. O objetivo é explorar padrões nos atributos das flores e aplicar o algoritmo K-Means para estimar quantos grupos distintos podem ser identificados com base nas características disponíveis. Ao longo da análise, são utilizadas estatísticas descritivas e visualizações para entender melhor a estrutura dos dados e avaliar a separabilidade das espécies sem rótulos prévios.
   
-  * Diagnóstico de câncer de mama (Em Breve)
+  * Análise para Detecção de Câncer de Mama (Em Breve)
 
-  * Conjunto de dados sobre Qualidade de Vinhos (Em Breve)
+  * Avaliação de Qualidade de Vinhos (Em Breve)
 
-  * Conjunto de dados sobre Doenças Cardíacas (Em Breve)
+  * Investigação de Fatores Cardíacos (Em Breve)
 
-  * Conjunto de dados sobre Transações de Vendas (Em Breve)
+  * Descoberta de Padrões em Vendas (Em Breve)
   
   _Bibliotecas Utilizadas: Pandas, Seaborn, Matplotlib, NumPy, Scikit-Learn_
 
