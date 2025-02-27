@@ -1,7 +1,13 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/-FelipeSousa-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"> 
-  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"> 
-  <img src="https://img.shields.io/badge/-Meu%20Site-00C4CC?style=flat-square&logo=Canva&logoColor=white" alt="Website">
+  <a href="https://www.linkedin.com/in/felipe-sousa-20968017a/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a> 
+  <a href="mailto:felipevsousa7@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
+  </a> 
+  <a href="https://felipevsousa.my.canva.site/portfolio">
+    <img src="https://img.shields.io/badge/-Meu%20Site-00C4CC?style=flat-square&logo=Canva&logoColor=white" alt="Website">
+  </a>
 </p>
 
 # 📊 Portfólio de Ciência de Dados
