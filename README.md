@@ -30,7 +30,7 @@ Todos os dados são usados exclusivamente para fins de estudo, respeitando boas 
 **Bibliotecas:** Pandas, Seaborn, Matplotlib, NumPy, Scikit-Learn
 
 ### 🤖 Machine Learning
-- **[Classificação de Espécies Florais](https://github.com/benzerinsio/FloralSpecies-ML):** Projeto de Machine Learning supervisionado no dataset Iris, testando modelos como SVM, KNN, Decision Trees e Random Forest para classificar espécies com base em características florais.  
+- **[Classificação Espécies Iris](https://github.com/benzerinsio/FloralSpecies-ML):** Projeto de Machine Learning supervisionado no dataset Iris, testando modelos como SVM, KNN, Decision Trees e Random Forest para classificar espécies com base em características florais.  
 - *(Mais Projetos Em Breve)*
 
 ### 🧠 Deep Learning
