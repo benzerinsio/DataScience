@@ -9,9 +9,9 @@ Todos os dados são usados exclusivamente para fins de estudo, respeitando boas 
 ## Projetos
 
 ### 📊 Análise Exploratória
-- **[Exploração de Espécies Florais](https://github.com/benzerinsio/FloralSpecies-EDA):** Análise Exploratória (EDA) no dataset Íris, buscando padrões com estatísticas descritivas, visualizações e o algoritmo K-Means para clusterização.  
-- **[Avaliação de Qualidade de Vinhos](https://github.com/benzerinsio/WineQuality-EDA):** Análise Exploratória (EDA) no dataset de vinhos tintos, investigando características físico-químicas e sua relação com a qualidade através de estatísticas, transformações e visualizações.
-- *Análise para Detecção de Câncer de Mama* (Em Breve)    
+- **[Exploração de Espécies Florais](https://github.com/benzerinsio/FloralSpecies-EDA):** Busca por padrões com estatísticas descritivas, visualizações e o algoritmo K-Means para clusterização.  
+- **[Avaliação de Qualidade de Vinhos](https://github.com/benzerinsio/WineQuality-EDA):** Investigando características físico-químicas e sua relação com a qualidade através de estatísticas, transformações e visualizações.  
+- **[Análise para Detecção de Câncer de Mama](https://github.com/benzerinsio/BreastCancer-EDA):** Exploração de características clínicas pra identificar padrões relacionados ao diagnóstico de câncer.
 - *Investigação de Fatores Cardíacos* (Em Breve)  
 - *Descoberta de Padrões em Vendas* (Em Breve)  
 
