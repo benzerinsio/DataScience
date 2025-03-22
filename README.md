@@ -37,7 +37,7 @@ Todos os dados são usados exclusivamente para fins de estudo, respeitando boas 
    - Dashboard básico que explora padrões climáticos de Seattle, com base no dataset 'Seattle Weather'. Mostra temperaturas e precipitação por ano e mês, com preprocessamento em SQLite para agregação dos dados.
    - [Confira o Repositório](https://github.com/benzerinsio/SeattleWeather-PowerBI)
 
-**Bibliotecas:** Pandas, Seaborn, Matplotlib, NumPy, Scikit-Learn
+**Ferramentas/Habilidades:** Python, SQL, PowerBI, Tableau, Business Intelligence
 
 ### 🤖 Machine Learning
 - **[Classificação Espécies Iris](https://github.com/benzerinsio/FloralSpecies-ML):** Projeto de Machine Learning supervisionado no dataset Iris, testando modelos como SVM, KNN, Decision Trees e Random Forest para classificar espécies com base em características florais.  
