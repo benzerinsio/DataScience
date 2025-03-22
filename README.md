@@ -1,6 +1,6 @@
 # 📊 Portfólio de Ciência de Dados
 
-Bem-vindo(a)! Este repositório reúne meus projetos de **Data Science**, focados em **Exploração de Dados (EDA)**, **Machine Learning** e **Deep Learning**. Desenvolvidos para prática e demonstração, os projetos destacam abordagens analíticas aplicadas.
+Bem-vindo(a)! Este repositório reúne meus projetos de **Data Science**, focados em **Exploração de Dados (EDA)**, **Visualização de Dados**, **Machine Learning** e **Deep Learning**. Desenvolvidos para prática e demonstração, os projetos destacam abordagens analíticas aplicadas.
 
 Todos os dados são usados exclusivamente para fins de estudo, respeitando boas práticas de **privacidade e ética**.
 
@@ -49,7 +49,7 @@ Todos os dados são usados exclusivamente para fins de estudo, respeitando boas 
 
 ## 🛠️ Habilidades
 
-**Data Visualization | Data Science | Machine Learning | Deep Learning | Business Intelligence**
+**Data Visualization | Data Science | Machine Learning | Deep Learning | Business Intelligence | Storytelling**
 
 - Domínio de **Python** para Análise e Ciência de Dados, utilizando bibliotecas como **Pandas**, **NumPy**, **Scikit-Learn** e **Matplotlib**.  
 - Experiência em Machine Learning, Deep Learning e Business Intelligence, criando soluções para otimizar processos e gerar insights estratégicos.
